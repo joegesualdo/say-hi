@@ -1,2 +1,3 @@
-fn say-hi() {
+fn say_hi() {
+  String::from("hi!");
 }
