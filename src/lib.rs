@@ -1,3 +1,3 @@
-fn say_hi() {
+pub fn say_hi() {
   String::from("hi!");
 }
